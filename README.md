@@ -19,4 +19,5 @@ The purpose of this analysis is to develop a deep learning model for Alphabet So
 
 
 3.  Summary
+   
 Overall, the deep learning model developed for Alphabet Soup shows promising results in predicting the success of funding applicants. However, further optimization and fine-tuning may be required to achieve the desired target model performance. Additionally, considering the nature of the classification problem, alternative models such as Random Forest, Gradient Boosting, or Support Vector Machines could also be explored to compare performance and potentially improve prediction accuracy. These models are known for their effectiveness in handling classification tasks and could provide valuable insights and complementary results to the deep learning approach.
